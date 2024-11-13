@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Elliott. I like to create things and solve problems, whether in the real world or with computers.
+
+- 🌱 I’m currently learning python, kubernetes, metal turning and welding
+
 <!--
 **ebarrere/ebarrere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
