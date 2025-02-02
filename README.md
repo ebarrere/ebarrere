@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Elliott. I like to create things and solve problems, whether in the real world or with computers.
+I'm Elliott. I like to create things and solve problems, both in the real world and with computers.
 
 - 🌱 I’m currently learning python, kubernetes, metal turning and welding
 
